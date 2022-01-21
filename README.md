@@ -27,7 +27,7 @@ django-admin collectstatic
 django-admin rename_project <new_name_for_django_project>
 ```
 
-2. rune migrations
+2. run migrations
 ```bash
 django-admin migrate
 ```
